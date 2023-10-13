@@ -108,6 +108,7 @@ img{
     width: 100%;
     border-radius: 100px;
     border: 2px solid var(--text-color);
+    margin-bottom: 5px;
 }
 .project-list article {
     border: 5px solid var(--background-color); 
