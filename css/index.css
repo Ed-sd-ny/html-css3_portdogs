@@ -90,6 +90,7 @@
 .project-section {
     background-color: var(--background-color);
     padding: 100px 20px;
+    min-width: 720px;
 }
 
 h2 {
@@ -155,6 +156,7 @@ img{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    min-width: 720px;
 }
 
 .contact-socials {
