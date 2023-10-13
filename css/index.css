@@ -74,7 +74,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    min-width: 720px;
+    min-width: 520px;
 }
 
 .welcome-section h1 {
@@ -90,7 +90,7 @@
 .project-section {
     background-color: var(--background-color);
     padding: 100px 20px;
-    min-width: 720px;
+    min-width: 520px;
 }
 
 h2 {
@@ -156,7 +156,7 @@ img{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    min-width: 720px;
+    min-width: 520px;
 }
 
 .contact-socials {
