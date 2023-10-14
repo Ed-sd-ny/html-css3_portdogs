@@ -96,10 +96,18 @@
 
 h2 {
     font-size: 42px;
-    color: var(--accent-color);
+    color: var(--text-color);
     text-align: center;
     text-decoration: underline;
     margin-bottom: 60px;
+    padding: 5px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--background-color); 
+    min-height: 80px;
+    border-radius: 50px;
+    border: 2px solid var(--background-color-alternate);
 }
 
 .project-list {
