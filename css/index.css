@@ -91,7 +91,7 @@
     background-image: url('../img/paws2.jpg');
     padding: 100px 20px;
     min-width: 400px;
-    color: var(--background-color);
+    /*color: var(--background-color);*/
 }
 
 h2 {
