@@ -21,7 +21,7 @@
 }
 
 .button {
-    background-color: var(--background-color-alternate);
+    background-color: var(--background-color);
     border-radius: 2px;
     padding: 5px 15px;
     display: inline-block;
@@ -96,7 +96,7 @@
 
 h2 {
     font-size: 42px;
-    color: var(--text-color);
+    color: var(--background-color);
     text-align: center;
     text-decoration: underline;
     margin-bottom: 60px;
