@@ -91,6 +91,7 @@
     background-image: url('../img/paws2.jpg');
     padding: 100px 20px;
     min-width: 400px;
+    color: var(--background-color);
 }
 
 h2 {
@@ -109,7 +110,7 @@ img{
     display: block;
     width: 100%;
     border-radius: 100px;
-    border: 2px solid var(--text-color);
+    border: 2px solid var(--background-color-alternate);
     margin-bottom: 5px;
 }
 .project-list article {
@@ -120,10 +121,10 @@ img{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: var(--background-color-alternate); 
+    background-color: var(--background-color); 
     min-height: 80px;
     border-radius: 50px;
-    border: 2px solid var(--text-color);
+    border: 2px solid var(--background-color-alternate);
 }
 
 .project-list article h3 {
