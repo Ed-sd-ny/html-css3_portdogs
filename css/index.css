@@ -96,7 +96,7 @@
 
 h2 {
     font-size: 42px;
-    color: var(--background-color);
+    color: var(--accent-color);
     text-align: center;
     text-decoration: underline;
     margin-bottom: 60px;
