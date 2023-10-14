@@ -88,7 +88,7 @@
 }
 
 .project-section {
-    background-color: var(--background-color);
+    background-image: url('../img/paws.jpg');
     padding: 100px 20px;
     min-width: 400px;
 }
@@ -120,7 +120,7 @@ img{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: var(--background-color-alternate);
+    background-color: var(--background-color-alternate); 
     min-height: 80px;
     border-radius: 50px;
     border: 2px solid var(--text-color);
