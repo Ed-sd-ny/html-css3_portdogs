@@ -88,7 +88,7 @@
 }
 
 .project-section {
-    background-image: url('../img/paws.jpg');
+    background-image: url('../img/paws2.jpg');
     padding: 100px 20px;
     min-width: 400px;
 }
@@ -113,7 +113,7 @@ img{
     margin-bottom: 5px;
 }
 .project-list article {
-    border: 5px solid var(--background-color); 
+    /*border: 5px solid var(--background-color); */
 }
 .project-list .title-container {    
     padding: 5px 20px;
